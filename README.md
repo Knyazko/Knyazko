@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knyazko
 - 👀 I’m interested in coding.  
-- 🌱 I’m currently learning html,css,js,py...
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on some one who giving interesting tasks  
 - 📫 reach me in telegram +79282165569 
 <!---
